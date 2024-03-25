@@ -45,8 +45,8 @@ header
 }
 .h-title{
     margin-top: 1.5rem;
-    /* padding-left: 0.5rem;
-    padding-right: 0.5rem; */
+    padding-left: 1rem;
+    padding-right: 1rem;
     line-height: 2.4rem;
 }
 .card-title2{
@@ -195,7 +195,7 @@ li .s_link:hover{
     }
     .card-title{
         margin-left: 4rem;
-       
+      
 
     }
     .card-title2{
